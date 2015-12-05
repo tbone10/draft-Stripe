@@ -6,7 +6,7 @@
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
-growth_hacking_monthly = Product.create(title: "Growth Hacking Monthly", 
+growth_hacking_monthly = Product.create(title: "JMA Vector Works", 
     subtitle: "Ongoing Course", author: "Mattan Griffel", 
     length: "6 months", author_image_name: "teacher-image.jpg", 
     price: "4.99", sku: "GROHACK2", download_url: "https://s3.amazonaws.com/one-month-stripe-payments/Peter+Bell+Resume.pdf", 
@@ -27,7 +27,7 @@ growth_hacking_monthly = Product.create(title: "Growth Hacking Monthly",
 
 
 
-copywriting_monthly = Product.create(title: "Copywriting Monthly", 
+copywriting_monthly = Product.create(title: "JMA Rainbow Box", 
     subtitle: "Fart Binders", author: "John Morgan", 
     length: "6 months", author_image_name: "teacher-image.jpg", 
     price: "4.99", sku: "COPYWRITE2", download_url: "https://s3.amazonaws.com/one-month-stripe-payments/Peter+Bell+Resume.pdf", 
@@ -46,7 +46,7 @@ copywriting_monthly = Product.create(title: "Copywriting Monthly",
 
 
 
-analytics_monthly = Product.create(title: "Analytics Monthly", 
+analytics_monthly = Product.create(title: "JMA Afirmitive Action", 
     subtitle: "Tits Stick", author: "Tim Morgan", 
     length: "6 months", author_image_name: "teacher-image.jpg", 
     price: "4.99", sku: "ANALYTICS2", download_url: "https://s3.amazonaws.com/one-month-stripe-payments/Peter+Bell+Resume.pdf", 
