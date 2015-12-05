@@ -7,58 +7,61 @@
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
 growth_hacking_monthly = Product.create(title: "JMA Vector Works", 
-    subtitle: "Ongoing Course", author: "Mattan Griffel", 
-    length: "6 months", author_image_name: "teacher-image.jpg", 
-    price: "4.99", sku: "GROHACK2", download_url: "https://s3.amazonaws.com/one-month-stripe-payments/Peter+Bell+Resume.pdf", 
-    details: "We'll charge you monthly for unlimited access to our mentoring team", description: %{<p>A growth hacker is a rare combination: someone with the right marketing and technical skills who can come up with clever marketing hacks and also track their results.</p>
+    subtitle: "", author: "John Morgan", 
+    length: "1-Year Supply", author_image_name: "teacher-image.jpg", 
+    price: "49.99", sku: "GROHACK2", download_url: "https://s3.amazonaws.com/one-month-stripe-payments/Peter+Bell+Resume.pdf", 
+    details: "JMA will charge you monthly for a 1-year supply of VectorWorks binders", description: %{<p>John Morgan & Associates offers experience gained in 35 years of producing Creative Literature Packaging Solutions.</p>
 
-            <p>In this series, Mattan Griffel introduces you to the concept of Growth Hacking and shares his favorite tips for getting started as a growth hacker.</p>
-            <p><strong>What You'll Learn</strong></p>
+            <p>JMA combines experience with the communication skills to listen to all Clients Goals, and consistently delivers the winning idea. On budget, on time, to make your message sparkle!</p>
+            <p><strong>What You'll Get</strong></p>
             <ul class="no-indent">
-                <li>What is a growth hacker?</li>
-                <li>The 5 stages of the user lifecycle</li>
-                <li>How to apply the Lean Marketing Framework</li>
-                <li>Resources and tools you'll need to know</li>
+                <li>What does a partnership with JMA entail?</li>
+                <li>Awesome binders for any occasion</li>
+                <li>24-7 Customer Service around the clock</li>
+                <li>Resources and tools you'll need to satisfy diverse customer needs</li>
             </ul>}, 
-    author_description: %{                <p>Hey, I'm Mattan Griffel, co-founder of the Y Combinator backed <a href="http://www.onemonth.com" target="_blank">One Month</a> where I teach the best selling One Month Rails and One Month Growth Hacking.</p>
-                <p>Why take my class? In the past I've advised companies like Pepsico, Bloomberg, GM, NYSE, and JPMorgan on growth hacking best practices. I've also spoken at New York University, Cooper Union and First Round Capital. My goal is to help you and other entrepreneurs rapidly grow your business. 
+    author_description: %{                <p>Established in 1986, John Morgan & Associates offers creative solutions to all of your literature packaging needs.</p>
+                <p>JMA has developed expertise in the clever use of paper, corrugated board, and plastic materials to offer "out of the box" solutions for your educational, promotional, and other event fulfillment opportunities. Let us show you the possibilities to save time and expense while making your message sparkle! 
                 </p>
-                <p>Follow me on Twitter <a href="https://twitter.com/mattangriffel" target="_blank">@mattangriffel</a></p>})
+                <p>Order from JMA today!</p>})
 
 
 
 copywriting_monthly = Product.create(title: "JMA Rainbow Box", 
-    subtitle: "Fart Binders", author: "John Morgan", 
-    length: "6 months", author_image_name: "teacher-image.jpg", 
-    price: "4.99", sku: "COPYWRITE2", download_url: "https://s3.amazonaws.com/one-month-stripe-payments/Peter+Bell+Resume.pdf", 
-    details: "We'll charge you monthly for unlimited access to our mentoring team", description: %{<p>A growth hacker is a rare combination: someone with the right marketing and technical skills who can come up with clever marketing hacks and also track their results.</p>
+    subtitle: "", author: "John Morgan", 
+    length: "1-Year Supply", author_image_name: "teacher-image.jpg", 
+    price: "49.99", sku: "COPYWRITE2", download_url: "https://s3.amazonaws.com/one-month-stripe-payments/Peter+Bell+Resume.pdf", 
+    details: "JMA will charge you monthly for a 1-year supply of Rainbox Box Binders binders", description: %{<p>John Morgan & Associates offers experience gained in 35 years of producing Creative Literature Packaging Solutions.</p>
 
-            <p>In this series, Mattan Griffel introduces you to the concept of copywriting and Fart Binders and shares his favorite tips for getting started as a growth hacker.</p>
-            <p><strong>What You'll Learn</strong></p>
+            <p>JMA combines experience with the communication skills to listen to all Clients Goals, and consistently delivers the winning idea. On budget, on time, to make your message sparkle!</p>
+            <p><strong>What You'll Get</strong></p>
             <ul class="no-indent">
-                <li>How to write killer copy</li>
-                <li>Seven secrets of direct copy ad sales</li>
+                <li>What does a partnership with JMA entail?</li>
+                <li>Awesome binders for any occasion</li>
+                <li>24-7 Customer Service around the clock</li>
+                <li>Resources and tools you'll need to satisfy diverse customer needs</li>
             </ul>}, 
-    author_description: %{                <p>Hey, I'm John Morgan, co-founder of JMA Packaging Solutions <a href="http://www.onemonth.com" target="_blank">One Month</a> where I teach the best selling One Month Rails and One Month Growth Hacking.</p>
-                <p>Why take my class? In the past I've advised companies like Pepsico, Bloomberg, GM, NYSE, and JPMorgan on growth hacking best practices. I've also spoken at New York University, Cooper Union and First Round Capital. My goal is to help you and other entrepreneurs rapidly grow your business. 
+    author_description: %{                <p>Established in 1986, John Morgan & Associates offers creative solutions to all of your literature packaging needs.</p>
+                 <p>JMA has developed expertise in the clever use of paper, corrugated board, and plastic materials to offer "out of the box" solutions for your educational, promotional, and other event fulfillment opportunities. Let us show you the possibilities to save time and expense while making your message sparkle! 
                 </p>
-                <p>Follow me on Twitter <a href="https://twitter.com/mattangriffel" target="_blank">@mattangriffel</a></p>})
-
+                <p>Order from JMA today!</p>})
 
 
 analytics_monthly = Product.create(title: "JMA Afirmitive Action", 
-    subtitle: "Tits Stick", author: "Tim Morgan", 
-    length: "6 months", author_image_name: "teacher-image.jpg", 
-    price: "4.99", sku: "ANALYTICS2", download_url: "https://s3.amazonaws.com/one-month-stripe-payments/Peter+Bell+Resume.pdf", 
-    details: "We'll charge you monthly for unlimited access to our mentoring team", description: %{<p>A growth hacker is a rare combination: someone with the right marketing and technical skills who can come up with clever marketing hacks and also track their results.</p>
+    subtitle: "", author: "John Morgan", 
+    length: "1-Year Supply", author_image_name: "teacher-image.jpg", 
+    price: "49.99", sku: "ANALYTICS2", download_url: "https://s3.amazonaws.com/one-month-stripe-payments/Peter+Bell+Resume.pdf", 
+    details: "JMA will charge you monthly for a 1-year supply of Rainbox Box Binders binders", description: %{<p>John Morgan & Associates offers experience gained in 35 years of producing Creative Literature Packaging Solutions.</p>
 
-            <p>In this series, Tim Morgan introduces you to the concept of masterbating and shares his favorite tips for getting off to hot black chicks.</p>
-            <p><strong>Will you Cum?</strong></p>
+            <p>JMA combines experience with the communication skills to listen to all Clients Goals, and consistently delivers the winning idea. On budget, on time, to make your message sparkle!</p>
+            <p><strong>What You'll Get</strong></p>
             <ul class="no-indent">
-                <li>How to use mix panel effectively</li>
-                <li>How to improv your sales funnel using analytics</li>
+                <li>What does a partnership with JMA entail?</li>
+                <li>Awesome binders for any occasion</li>
+                <li>24-7 Customer Service around the clock</li>
+                <li>Resources and tools you'll need to satisfy diverse customer needs</li>
             </ul>}, 
-    author_description: %{                <p>Tim Morgan, co-founder of JMA Packaging Solutions <a href="http://www.onemonth.com" target="_blank">One Month</a> willteach the best selling Jerk-Off tactics.</p>
-                <p>Why take my class? In the past I've advised companies like Pepsico, Bloomberg, GM, NYSE, and JPMorgan on growth hacking best practices. I've also spoken at New York University, Cooper Union and First Round Capital. My goal is to help you and other entrepreneurs rapidly grow your business. 
+    author_description: %{                <p>Established in 1986, John Morgan & Associates offers creative solutions to all of your literature packaging needs.</p>
+                 <p>JMA has developed expertise in the clever use of paper, corrugated board, and plastic materials to offer "out of the box" solutions for your educational, promotional, and other event fulfillment opportunities. Let us show you the possibilities to save time and expense while making your message sparkle! 
                 </p>
-                <p>Follow me on Twitter <a href="https://twitter.com/mattangriffel" target="_blank">@mattangriffel</a></p>})
+                <p>Order from JMA today!</p>})
