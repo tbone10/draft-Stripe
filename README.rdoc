@@ -1,28 +1,8 @@
 == README
+This is the READme for the JMA Products catalog webpage. The site was written in Ruby on Rails 
+currnetly only holds 3 products. In the future all of JMA's products will be uploaded 
+to compete with his business in person. The goal of the page is to replicate what JMA does
+on a dily basis and to eventaully replace his in person sales, from this page. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This page is currently under construction. 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
